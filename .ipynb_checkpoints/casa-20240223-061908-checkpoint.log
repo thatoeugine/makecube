@@ -1,0 +1,11 @@
+2024-02-23 06:19:11	INFO	::casa	
+2024-02-23 06:19:11	INFO	::casa	Checking telemetry submission interval
+2024-02-23 06:19:11	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2024-02-23 06:19:11	INFO	::casa	Next telemetry data submission in: 6 days, 23:22:14.661742
+2024-02-23 06:19:11	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-02-23 06:19:14	INFO	uvsub::utils::verify	Verifying arguments....File existence checking failed for vis /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms
+2024-02-23 06:19:14	WARN	uvsub::utils::verify	Argument vis failed to verify.
+2024-02-23 06:19:14	SEVERE	uvsub::::	An error occurred running task uvsub.
+2024-02-23 06:19:14	INFO	uvcontsub::utils::verify	Verifying arguments....File existence checking failed for vis /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms
+2024-02-23 06:19:14	WARN	uvcontsub::utils::verify	Argument vis failed to verify.
+2024-02-23 06:19:14	SEVERE	uvcontsub::::	An error occurred running task uvcontsub.

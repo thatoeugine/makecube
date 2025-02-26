@@ -1,0 +1,32 @@
+2024-02-23 12:20:54	INFO	::casa	
+2024-02-23 12:20:54	INFO	::casa	Checking telemetry submission interval
+2024-02-23 12:20:54	INFO	::casa	Telemetry submit interval reached, submitting telemetry data.
+2024-02-23 12:21:03	INFO	::casa	Removed/users/thatomanamela/.casa/telemetry-e02232a326313aac-20240223142100.tar.gz
+2024-02-23 12:21:03	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-02-23 12:21:05	INFO	imcontsub::::	
+2024-02-23 12:21:05	INFO	imcontsub::::+	##########################################
+2024-02-23 12:21:05	INFO	imcontsub::::+	##### Begin Task: imcontsub          #####
+2024-02-23 12:21:05	INFO	imcontsub::::	imcontsub(imagename="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits",linefile="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.linefile",contfile="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.contfile",fitorder=1,region="",
+2024-02-23 12:21:05	INFO	imcontsub::::+	        box="",chans="",stokes="")
+2024-02-23 12:21:05	INFO	imcontsub::::	FITS card 23: CDELT1  = -0.000472222222222222                                                 
+2024-02-23 12:21:05	INFO	imcontsub::::	Numeric value does not conform to FITS fixed format.
+2024-02-23 12:21:05	INFO	imcontsub::::	FITS card 31: CRPIX3  =                    1                                                  
+2024-02-23 12:21:05	INFO	imcontsub::::	Keyword value has wrong data type.
+2024-02-23 12:21:05	INFO	imcontsub::::	... converted to type double.
+2024-02-23 12:21:05	INFO	imcontsub::::	FITS card 23: CDELT1  = -0.000472222222222222                                                 
+2024-02-23 12:21:05	INFO	imcontsub::::	Numeric value does not conform to FITS fixed format.
+2024-02-23 12:21:05	INFO	imcontsub::::	FITS card 31: CRPIX3  =                    1                                                  
+2024-02-23 12:21:05	INFO	imcontsub::::	Keyword value has wrong data type.
+2024-02-23 12:21:05	INFO	imcontsub::::	... converted to type double.
+2024-02-23 12:21:06	INFO	imcontsub::CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2024-02-23 12:21:06	INFO	imcontsub::CasacRegionManager::fromBCS	Using all spectral channels.
+2024-02-23 12:21:06	INFO	imcontsub::CasacRegionManager::fromBCS	Using polarizations I
+2024-02-23 13:56:32	INFO	imcontsub::ImageProfileFitterResults::logSummary	Number of profiles       = 262144
+2024-02-23 13:56:32	INFO	imcontsub::ImageProfileFitterResults::logSummary	Number of fits attempted = 262144
+2024-02-23 13:56:32	INFO	imcontsub::ImageProfileFitterResults::logSummary	Number succeeded         = 262144
+2024-02-23 13:56:32	INFO	imcontsub::ImageProfileFitterResults::logSummary	Number converged         = 262144
+2024-02-23 13:56:32	INFO	imcontsub::ImageProfileFitterResults::logSummary	Number valid             = 262144
+2024-02-23 13:56:32	INFO	imcontsub::SubImageFactory::createImage	Creating image '/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.contfile' of shape [512, 512, 302, 1]
+2024-02-23 13:56:33	INFO	imcontsub::SubImageFactory::createImage	Creating image '/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.linefile' of shape [512, 512, 302, 1]
+2024-02-23 13:56:33	INFO	imcontsub::::	##### End Task: imcontsub            #####
+2024-02-23 13:56:33	INFO	imcontsub::::+	##########################################

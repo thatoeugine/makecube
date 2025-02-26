@@ -1,0 +1,5469 @@
+
+WSClean version 2.8 (2019-09-16)
+This software package is released under the GPL version 3.
+Author: André Offringa (offringa@gmail.com).
+
+=== IMAGING TABLE ===
+       # Pol Ch JG ²G In Freq(MHz)
+| Independent group:
++-+-J- 0  I   0  0  0  0  589-589 (1)
+|
+|
+| Independent group:
++-+-J- 1  I   1  1  1  0  589-589 (1)
+|
+|
+| Independent group:
++-+-J- 2  I   2  2  2  0  589-589 (1)
+|
+|
+| Independent group:
++-+-J- 3  I   3  3  3  0  589-589 (1)
+|
+|
+| Independent group:
++-+-J- 4  I   4  4  4  0  589-589 (1)
+|
+|
+| Independent group:
++-+-J- 5  I   5  5  5  0  589-590 (1)
+|
+|
+| Independent group:
++-+-J- 6  I   6  6  6  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J- 7  I   7  7  7  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J- 8  I   8  8  8  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J- 9  I   9  9  9  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-10  I  10  10  10  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-11  I  11  11  11  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-12  I  12  12  12  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-13  I  13  13  13  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-14  I  14  14  14  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-15  I  15  15  15  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-16  I  16  16  16  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-17  I  17  17  17  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-18  I  18  18  18  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-19  I  19  19  19  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-20  I  20  20  20  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-21  I  21  21  21  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-22  I  22  22  22  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-23  I  23  23  23  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-24  I  24  24  24  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-25  I  25  25  25  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-26  I  26  26  26  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-27  I  27  27  27  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-28  I  28  28  28  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-29  I  29  29  29  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-30  I  30  30  30  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-31  I  31  31  31  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-32  I  32  32  32  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-33  I  33  33  33  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-34  I  34  34  34  0  590-590 (1)
+|
+|
+| Independent group:
++-+-J-35  I  35  35  35  0  590-591 (1)
+|
+|
+| Independent group:
++-+-J-36  I  36  36  36  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-37  I  37  37  37  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-38  I  38  38  38  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-39  I  39  39  39  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-40  I  40  40  40  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-41  I  41  41  41  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-42  I  42  42  42  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-43  I  43  43  43  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-44  I  44  44  44  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-45  I  45  45  45  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-46  I  46  46  46  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-47  I  47  47  47  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-48  I  48  48  48  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-49  I  49  49  49  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-50  I  50  50  50  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-51  I  51  51  51  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-52  I  52  52  52  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-53  I  53  53  53  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-54  I  54  54  54  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-55  I  55  55  55  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-56  I  56  56  56  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-57  I  57  57  57  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-58  I  58  58  58  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-59  I  59  59  59  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-60  I  60  60  60  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-61  I  61  61  61  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-62  I  62  62  62  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-63  I  63  63  63  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-64  I  64  64  64  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-65  I  65  65  65  0  591-591 (1)
+|
+|
+| Independent group:
++-+-J-66  I  66  66  66  0  591-592 (1)
+|
+|
+| Independent group:
++-+-J-67  I  67  67  67  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-68  I  68  68  68  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-69  I  69  69  69  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-70  I  70  70  70  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-71  I  71  71  71  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-72  I  72  72  72  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-73  I  73  73  73  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-74  I  74  74  74  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-75  I  75  75  75  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-76  I  76  76  76  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-77  I  77  77  77  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-78  I  78  78  78  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-79  I  79  79  79  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-80  I  80  80  80  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-81  I  81  81  81  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-82  I  82  82  82  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-83  I  83  83  83  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-84  I  84  84  84  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-85  I  85  85  85  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-86  I  86  86  86  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-87  I  87  87  87  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-88  I  88  88  88  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-89  I  89  89  89  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-90  I  90  90  90  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-91  I  91  91  91  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-92  I  92  92  92  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-93  I  93  93  93  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-94  I  94  94  94  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-95  I  95  95  95  0  592-592 (1)
+|
+|
+| Independent group:
++-+-J-96  I  96  96  96  0  592-593 (1)
+|
+|
+| Independent group:
++-+-J-97  I  97  97  97  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-98  I  98  98  98  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-99  I  99  99  99  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-100  I  100  100  100  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-101  I  101  101  101  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-102  I  102  102  102  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-103  I  103  103  103  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-104  I  104  104  104  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-105  I  105  105  105  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-106  I  106  106  106  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-107  I  107  107  107  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-108  I  108  108  108  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-109  I  109  109  109  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-110  I  110  110  110  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-111  I  111  111  111  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-112  I  112  112  112  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-113  I  113  113  113  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-114  I  114  114  114  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-115  I  115  115  115  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-116  I  116  116  116  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-117  I  117  117  117  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-118  I  118  118  118  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-119  I  119  119  119  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-120  I  120  120  120  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-121  I  121  121  121  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-122  I  122  122  122  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-123  I  123  123  123  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-124  I  124  124  124  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-125  I  125  125  125  0  593-593 (1)
+|
+|
+| Independent group:
++-+-J-126  I  126  126  126  0  593-594 (1)
+|
+|
+| Independent group:
++-+-J-127  I  127  127  127  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-128  I  128  128  128  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-129  I  129  129  129  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-130  I  130  130  130  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-131  I  131  131  131  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-132  I  132  132  132  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-133  I  133  133  133  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-134  I  134  134  134  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-135  I  135  135  135  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-136  I  136  136  136  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-137  I  137  137  137  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-138  I  138  138  138  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-139  I  139  139  139  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-140  I  140  140  140  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-141  I  141  141  141  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-142  I  142  142  142  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-143  I  143  143  143  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-144  I  144  144  144  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-145  I  145  145  145  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-146  I  146  146  146  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-147  I  147  147  147  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-148  I  148  148  148  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-149  I  149  149  149  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-150  I  150  150  150  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-151  I  151  151  151  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-152  I  152  152  152  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-153  I  153  153  153  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-154  I  154  154  154  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-155  I  155  155  155  0  594-594 (1)
+|
+|
+| Independent group:
++-+-J-156  I  156  156  156  0  594-595 (1)
+|
+|
+| Independent group:
++-+-J-157  I  157  157  157  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-158  I  158  158  158  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-159  I  159  159  159  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-160  I  160  160  160  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-161  I  161  161  161  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-162  I  162  162  162  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-163  I  163  163  163  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-164  I  164  164  164  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-165  I  165  165  165  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-166  I  166  166  166  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-167  I  167  167  167  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-168  I  168  168  168  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-169  I  169  169  169  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-170  I  170  170  170  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-171  I  171  171  171  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-172  I  172  172  172  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-173  I  173  173  173  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-174  I  174  174  174  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-175  I  175  175  175  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-176  I  176  176  176  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-177  I  177  177  177  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-178  I  178  178  178  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-179  I  179  179  179  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-180  I  180  180  180  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-181  I  181  181  181  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-182  I  182  182  182  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-183  I  183  183  183  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-184  I  184  184  184  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-185  I  185  185  185  0  595-595 (1)
+|
+|
+| Independent group:
++-+-J-186  I  186  186  186  0  595-596 (1)
+|
+|
+| Independent group:
++-+-J-187  I  187  187  187  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-188  I  188  188  188  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-189  I  189  189  189  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-190  I  190  190  190  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-191  I  191  191  191  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-192  I  192  192  192  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-193  I  193  193  193  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-194  I  194  194  194  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-195  I  195  195  195  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-196  I  196  196  196  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-197  I  197  197  197  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-198  I  198  198  198  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-199  I  199  199  199  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-200  I  200  200  200  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-201  I  201  201  201  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-202  I  202  202  202  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-203  I  203  203  203  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-204  I  204  204  204  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-205  I  205  205  205  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-206  I  206  206  206  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-207  I  207  207  207  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-208  I  208  208  208  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-209  I  209  209  209  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-210  I  210  210  210  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-211  I  211  211  211  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-212  I  212  212  212  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-213  I  213  213  213  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-214  I  214  214  214  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-215  I  215  215  215  0  596-596 (1)
+|
+|
+| Independent group:
++-+-J-216  I  216  216  216  0  596-597 (1)
+|
+|
+| Independent group:
++-+-J-217  I  217  217  217  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-218  I  218  218  218  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-219  I  219  219  219  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-220  I  220  220  220  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-221  I  221  221  221  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-222  I  222  222  222  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-223  I  223  223  223  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-224  I  224  224  224  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-225  I  225  225  225  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-226  I  226  226  226  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-227  I  227  227  227  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-228  I  228  228  228  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-229  I  229  229  229  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-230  I  230  230  230  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-231  I  231  231  231  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-232  I  232  232  232  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-233  I  233  233  233  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-234  I  234  234  234  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-235  I  235  235  235  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-236  I  236  236  236  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-237  I  237  237  237  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-238  I  238  238  238  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-239  I  239  239  239  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-240  I  240  240  240  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-241  I  241  241  241  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-242  I  242  242  242  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-243  I  243  243  243  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-244  I  244  244  244  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-245  I  245  245  245  0  597-597 (1)
+|
+|
+| Independent group:
++-+-J-246  I  246  246  246  0  597-598 (1)
+|
+|
+| Independent group:
++-+-J-247  I  247  247  247  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-248  I  248  248  248  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-249  I  249  249  249  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-250  I  250  250  250  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-251  I  251  251  251  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-252  I  252  252  252  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-253  I  253  253  253  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-254  I  254  254  254  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-255  I  255  255  255  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-256  I  256  256  256  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-257  I  257  257  257  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-258  I  258  258  258  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-259  I  259  259  259  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-260  I  260  260  260  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-261  I  261  261  261  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-262  I  262  262  262  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-263  I  263  263  263  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-264  I  264  264  264  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-265  I  265  265  265  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-266  I  266  266  266  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-267  I  267  267  267  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-268  I  268  268  268  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-269  I  269  269  269  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-270  I  270  270  270  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-271  I  271  271  271  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-272  I  272  272  272  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-273  I  273  273  273  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-274  I  274  274  274  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-275  I  275  275  275  0  598-598 (1)
+|
+|
+| Independent group:
++-+-J-276  I  276  276  276  0  598-599 (1)
+|
+|
+| Independent group:
++-+-J-277  I  277  277  277  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-278  I  278  278  278  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-279  I  279  279  279  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-280  I  280  280  280  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-281  I  281  281  281  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-282  I  282  282  282  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-283  I  283  283  283  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-284  I  284  284  284  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-285  I  285  285  285  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-286  I  286  286  286  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-287  I  287  287  287  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-288  I  288  288  288  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-289  I  289  289  289  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-290  I  290  290  290  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-291  I  291  291  291  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-292  I  292  292  292  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-293  I  293  293  293  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-294  I  294  294  294  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-295  I  295  295  295  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-296  I  296  296  296  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-297  I  297  297  297  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-298  I  298  298  298  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-299  I  299  299  299  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-300  I  300  300  300  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-301  I  301  301  301  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-302  I  302  302  302  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-303  I  303  303  303  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-304  I  304  304  304  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-305  I  305  305  305  0  599-599 (1)
+|
+|
+| Independent group:
++-+-J-306  I  306  306  306  0  599-600 (1)
+|
+|
+| Independent group:
++-+-J-307  I  307  307  307  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-308  I  308  308  308  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-309  I  309  309  309  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-310  I  310  310  310  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-311  I  311  311  311  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-312  I  312  312  312  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-313  I  313  313  313  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-314  I  314  314  314  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-315  I  315  315  315  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-316  I  316  316  316  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-317  I  317  317  317  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-318  I  318  318  318  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-319  I  319  319  319  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-320  I  320  320  320  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-321  I  321  321  321  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-322  I  322  322  322  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-323  I  323  323  323  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-324  I  324  324  324  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-325  I  325  325  325  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-326  I  326  326  326  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-327  I  327  327  327  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-328  I  328  328  328  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-329  I  329  329  329  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-330  I  330  330  330  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-331  I  331  331  331  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-332  I  332  332  332  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-333  I  333  333  333  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-334  I  334  334  334  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-335  I  335  335  335  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-336  I  336  336  336  0  600-600 (1)
+|
+|
+| Independent group:
++-+-J-337  I  337  337  337  0  600-601 (1)
+|
+|
+| Independent group:
++-+-J-338  I  338  338  338  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-339  I  339  339  339  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-340  I  340  340  340  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-341  I  341  341  341  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-342  I  342  342  342  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-343  I  343  343  343  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-344  I  344  344  344  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-345  I  345  345  345  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-346  I  346  346  346  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-347  I  347  347  347  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-348  I  348  348  348  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-349  I  349  349  349  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-350  I  350  350  350  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-351  I  351  351  351  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-352  I  352  352  352  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-353  I  353  353  353  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-354  I  354  354  354  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-355  I  355  355  355  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-356  I  356  356  356  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-357  I  357  357  357  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-358  I  358  358  358  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-359  I  359  359  359  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-360  I  360  360  360  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-361  I  361  361  361  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-362  I  362  362  362  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-363  I  363  363  363  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-364  I  364  364  364  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-365  I  365  365  365  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-366  I  366  366  366  0  601-601 (1)
+|
+|
+| Independent group:
++-+-J-367  I  367  367  367  0  601-602 (1)
+|
+|
+| Independent group:
++-+-J-368  I  368  368  368  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-369  I  369  369  369  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-370  I  370  370  370  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-371  I  371  371  371  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-372  I  372  372  372  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-373  I  373  373  373  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-374  I  374  374  374  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-375  I  375  375  375  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-376  I  376  376  376  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-377  I  377  377  377  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-378  I  378  378  378  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-379  I  379  379  379  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-380  I  380  380  380  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-381  I  381  381  381  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-382  I  382  382  382  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-383  I  383  383  383  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-384  I  384  384  384  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-385  I  385  385  385  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-386  I  386  386  386  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-387  I  387  387  387  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-388  I  388  388  388  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-389  I  389  389  389  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-390  I  390  390  390  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-391  I  391  391  391  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-392  I  392  392  392  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-393  I  393  393  393  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-394  I  394  394  394  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-395  I  395  395  395  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-396  I  396  396  396  0  602-602 (1)
+|
+|
+| Independent group:
++-+-J-397  I  397  397  397  0  602-603 (1)
+|
+|
+| Independent group:
++-+-J-398  I  398  398  398  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-399  I  399  399  399  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-400  I  400  400  400  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-401  I  401  401  401  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-402  I  402  402  402  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-403  I  403  403  403  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-404  I  404  404  404  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-405  I  405  405  405  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-406  I  406  406  406  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-407  I  407  407  407  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-408  I  408  408  408  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-409  I  409  409  409  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-410  I  410  410  410  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-411  I  411  411  411  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-412  I  412  412  412  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-413  I  413  413  413  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-414  I  414  414  414  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-415  I  415  415  415  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-416  I  416  416  416  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-417  I  417  417  417  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-418  I  418  418  418  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-419  I  419  419  419  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-420  I  420  420  420  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-421  I  421  421  421  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-422  I  422  422  422  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-423  I  423  423  423  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-424  I  424  424  424  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-425  I  425  425  425  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-426  I  426  426  426  0  603-603 (1)
+|
+|
+| Independent group:
++-+-J-427  I  427  427  427  0  603-604 (1)
+|
+|
+| Independent group:
++-+-J-428  I  428  428  428  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-429  I  429  429  429  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-430  I  430  430  430  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-431  I  431  431  431  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-432  I  432  432  432  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-433  I  433  433  433  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-434  I  434  434  434  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-435  I  435  435  435  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-436  I  436  436  436  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-437  I  437  437  437  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-438  I  438  438  438  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-439  I  439  439  439  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-440  I  440  440  440  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-441  I  441  441  441  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-442  I  442  442  442  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-443  I  443  443  443  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-444  I  444  444  444  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-445  I  445  445  445  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-446  I  446  446  446  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-447  I  447  447  447  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-448  I  448  448  448  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-449  I  449  449  449  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-450  I  450  450  450  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-451  I  451  451  451  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-452  I  452  452  452  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-453  I  453  453  453  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-454  I  454  454  454  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-455  I  455  455  455  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-456  I  456  456  456  0  604-604 (1)
+|
+|
+| Independent group:
++-+-J-457  I  457  457  457  0  604-605 (1)
+|
+|
+| Independent group:
++-+-J-458  I  458  458  458  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-459  I  459  459  459  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-460  I  460  460  460  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-461  I  461  461  461  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-462  I  462  462  462  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-463  I  463  463  463  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-464  I  464  464  464  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-465  I  465  465  465  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-466  I  466  466  466  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-467  I  467  467  467  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-468  I  468  468  468  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-469  I  469  469  469  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-470  I  470  470  470  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-471  I  471  471  471  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-472  I  472  472  472  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-473  I  473  473  473  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-474  I  474  474  474  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-475  I  475  475  475  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-476  I  476  476  476  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-477  I  477  477  477  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-478  I  478  478  478  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-479  I  479  479  479  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-480  I  480  480  480  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-481  I  481  481  481  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-482  I  482  482  482  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-483  I  483  483  483  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-484  I  484  484  484  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-485  I  485  485  485  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-486  I  486  486  486  0  605-605 (1)
+|
+|
+| Independent group:
++-+-J-487  I  487  487  487  0  605-606 (1)
+|
+|
+| Independent group:
++-+-J-488  I  488  488  488  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-489  I  489  489  489  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-490  I  490  490  490  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-491  I  491  491  491  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-492  I  492  492  492  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-493  I  493  493  493  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-494  I  494  494  494  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-495  I  495  495  495  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-496  I  496  496  496  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-497  I  497  497  497  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-498  I  498  498  498  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-499  I  499  499  499  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-500  I  500  500  500  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-501  I  501  501  501  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-502  I  502  502  502  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-503  I  503  503  503  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-504  I  504  504  504  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-505  I  505  505  505  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-506  I  506  506  506  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-507  I  507  507  507  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-508  I  508  508  508  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-509  I  509  509  509  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-510  I  510  510  510  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-511  I  511  511  511  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-512  I  512  512  512  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-513  I  513  513  513  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-514  I  514  514  514  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-515  I  515  515  515  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-516  I  516  516  516  0  606-606 (1)
+|
+|
+| Independent group:
++-+-J-517  I  517  517  517  0  606-607 (1)
+|
+|
+| Independent group:
++-+-J-518  I  518  518  518  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-519  I  519  519  519  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-520  I  520  520  520  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-521  I  521  521  521  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-522  I  522  522  522  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-523  I  523  523  523  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-524  I  524  524  524  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-525  I  525  525  525  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-526  I  526  526  526  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-527  I  527  527  527  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-528  I  528  528  528  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-529  I  529  529  529  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-530  I  530  530  530  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-531  I  531  531  531  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-532  I  532  532  532  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-533  I  533  533  533  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-534  I  534  534  534  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-535  I  535  535  535  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-536  I  536  536  536  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-537  I  537  537  537  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-538  I  538  538  538  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-539  I  539  539  539  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-540  I  540  540  540  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-541  I  541  541  541  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-542  I  542  542  542  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-543  I  543  543  543  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-544  I  544  544  544  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-545  I  545  545  545  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-546  I  546  546  546  0  607-607 (1)
+|
+|
+| Independent group:
++-+-J-547  I  547  547  547  0  607-608 (1)
+|
+|
+| Independent group:
++-+-J-548  I  548  548  548  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-549  I  549  549  549  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-550  I  550  550  550  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-551  I  551  551  551  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-552  I  552  552  552  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-553  I  553  553  553  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-554  I  554  554  554  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-555  I  555  555  555  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-556  I  556  556  556  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-557  I  557  557  557  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-558  I  558  558  558  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-559  I  559  559  559  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-560  I  560  560  560  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-561  I  561  561  561  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-562  I  562  562  562  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-563  I  563  563  563  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-564  I  564  564  564  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-565  I  565  565  565  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-566  I  566  566  566  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-567  I  567  567  567  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-568  I  568  568  568  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-569  I  569  569  569  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-570  I  570  570  570  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-571  I  571  571  571  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-572  I  572  572  572  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-573  I  573  573  573  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-574  I  574  574  574  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-575  I  575  575  575  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-576  I  576  576  576  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-577  I  577  577  577  0  608-608 (1)
+|
+|
+| Independent group:
++-+-J-578  I  578  578  578  0  608-609 (1)
+|
+|
+| Independent group:
++-+-J-579  I  579  579  579  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-580  I  580  580  580  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-581  I  581  581  581  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-582  I  582  582  582  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-583  I  583  583  583  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-584  I  584  584  584  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-585  I  585  585  585  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-586  I  586  586  586  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-587  I  587  587  587  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-588  I  588  588  588  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-589  I  589  589  589  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-590  I  590  590  590  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-591  I  591  591  591  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-592  I  592  592  592  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-593  I  593  593  593  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-594  I  594  594  594  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-595  I  595  595  595  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-596  I  596  596  596  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-597  I  597  597  597  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-598  I  598  598  598  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-599  I  599  599  599  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-600  I  600  600  600  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-601  I  601  601  601  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-602  I  602  602  602  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-603  I  603  603  603  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-604  I  604  604  604  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-605  I  605  605  605  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-606  I  606  606  606  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-607  I  607  607  607  0  609-609 (1)
+|
+|
+| Independent group:
++-+-J-608  I  608  608  608  0  609-610 (1)
+|
+|
+| Independent group:
++-+-J-609  I  609  609  609  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-610  I  610  610  610  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-611  I  611  611  611  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-612  I  612  612  612  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-613  I  613  613  613  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-614  I  614  614  614  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-615  I  615  615  615  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-616  I  616  616  616  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-617  I  617  617  617  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-618  I  618  618  618  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-619  I  619  619  619  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-620  I  620  620  620  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-621  I  621  621  621  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-622  I  622  622  622  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-623  I  623  623  623  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-624  I  624  624  624  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-625  I  625  625  625  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-626  I  626  626  626  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-627  I  627  627  627  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-628  I  628  628  628  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-629  I  629  629  629  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-630  I  630  630  630  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-631  I  631  631  631  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-632  I  632  632  632  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-633  I  633  633  633  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-634  I  634  634  634  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-635  I  635  635  635  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-636  I  636  636  636  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-637  I  637  637  637  0  610-610 (1)
+|
+|
+| Independent group:
++-+-J-638  I  638  638  638  0  610-611 (1)
+|
+|
+| Independent group:
++-+-J-639  I  639  639  639  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-640  I  640  640  640  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-641  I  641  641  641  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-642  I  642  642  642  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-643  I  643  643  643  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-644  I  644  644  644  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-645  I  645  645  645  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-646  I  646  646  646  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-647  I  647  647  647  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-648  I  648  648  648  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-649  I  649  649  649  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-650  I  650  650  650  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-651  I  651  651  651  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-652  I  652  652  652  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-653  I  653  653  653  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-654  I  654  654  654  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-655  I  655  655  655  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-656  I  656  656  656  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-657  I  657  657  657  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-658  I  658  658  658  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-659  I  659  659  659  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-660  I  660  660  660  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-661  I  661  661  661  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-662  I  662  662  662  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-663  I  663  663  663  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-664  I  664  664  664  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-665  I  665  665  665  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-666  I  666  666  666  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-667  I  667  667  667  0  611-611 (1)
+|
+|
+| Independent group:
++-+-J-668  I  668  668  668  0  611-612 (1)
+|
+|
+| Independent group:
++-+-J-669  I  669  669  669  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-670  I  670  670  670  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-671  I  671  671  671  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-672  I  672  672  672  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-673  I  673  673  673  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-674  I  674  674  674  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-675  I  675  675  675  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-676  I  676  676  676  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-677  I  677  677  677  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-678  I  678  678  678  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-679  I  679  679  679  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-680  I  680  680  680  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-681  I  681  681  681  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-682  I  682  682  682  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-683  I  683  683  683  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-684  I  684  684  684  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-685  I  685  685  685  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-686  I  686  686  686  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-687  I  687  687  687  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-688  I  688  688  688  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-689  I  689  689  689  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-690  I  690  690  690  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-691  I  691  691  691  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-692  I  692  692  692  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-693  I  693  693  693  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-694  I  694  694  694  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-695  I  695  695  695  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-696  I  696  696  696  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-697  I  697  697  697  0  612-612 (1)
+|
+|
+| Independent group:
++-+-J-698  I  698  698  698  0  612-613 (1)
+|
+|
+| Independent group:
++-+-J-699  I  699  699  699  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-700  I  700  700  700  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-701  I  701  701  701  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-702  I  702  702  702  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-703  I  703  703  703  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-704  I  704  704  704  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-705  I  705  705  705  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-706  I  706  706  706  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-707  I  707  707  707  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-708  I  708  708  708  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-709  I  709  709  709  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-710  I  710  710  710  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-711  I  711  711  711  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-712  I  712  712  712  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-713  I  713  713  713  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-714  I  714  714  714  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-715  I  715  715  715  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-716  I  716  716  716  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-717  I  717  717  717  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-718  I  718  718  718  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-719  I  719  719  719  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-720  I  720  720  720  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-721  I  721  721  721  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-722  I  722  722  722  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-723  I  723  723  723  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-724  I  724  724  724  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-725  I  725  725  725  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-726  I  726  726  726  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-727  I  727  727  727  0  613-613 (1)
+|
+|
+| Independent group:
++-+-J-728  I  728  728  728  0  613-614 (1)
+|
+|
+| Independent group:
++-+-J-729  I  729  729  729  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-730  I  730  730  730  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-731  I  731  731  731  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-732  I  732  732  732  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-733  I  733  733  733  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-734  I  734  734  734  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-735  I  735  735  735  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-736  I  736  736  736  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-737  I  737  737  737  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-738  I  738  738  738  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-739  I  739  739  739  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-740  I  740  740  740  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-741  I  741  741  741  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-742  I  742  742  742  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-743  I  743  743  743  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-744  I  744  744  744  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-745  I  745  745  745  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-746  I  746  746  746  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-747  I  747  747  747  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-748  I  748  748  748  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-749  I  749  749  749  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-750  I  750  750  750  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-751  I  751  751  751  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-752  I  752  752  752  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-753  I  753  753  753  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-754  I  754  754  754  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-755  I  755  755  755  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-756  I  756  756  756  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-757  I  757  757  757  0  614-614 (1)
+|
+|
+| Independent group:
++-+-J-758  I  758  758  758  0  614-615 (1)
+|
+|
+| Independent group:
++-+-J-759  I  759  759  759  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-760  I  760  760  760  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-761  I  761  761  761  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-762  I  762  762  762  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-763  I  763  763  763  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-764  I  764  764  764  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-765  I  765  765  765  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-766  I  766  766  766  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-767  I  767  767  767  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-768  I  768  768  768  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-769  I  769  769  769  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-770  I  770  770  770  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-771  I  771  771  771  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-772  I  772  772  772  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-773  I  773  773  773  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-774  I  774  774  774  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-775  I  775  775  775  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-776  I  776  776  776  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-777  I  777  777  777  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-778  I  778  778  778  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-779  I  779  779  779  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-780  I  780  780  780  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-781  I  781  781  781  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-782  I  782  782  782  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-783  I  783  783  783  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-784  I  784  784  784  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-785  I  785  785  785  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-786  I  786  786  786  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-787  I  787  787  787  0  615-615 (1)
+|
+|
+| Independent group:
++-+-J-788  I  788  788  788  0  615-616 (1)
+|
+|
+| Independent group:
++-+-J-789  I  789  789  789  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-790  I  790  790  790  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-791  I  791  791  791  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-792  I  792  792  792  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-793  I  793  793  793  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-794  I  794  794  794  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-795  I  795  795  795  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-796  I  796  796  796  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-797  I  797  797  797  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-798  I  798  798  798  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-799  I  799  799  799  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-800  I  800  800  800  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-801  I  801  801  801  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-802  I  802  802  802  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-803  I  803  803  803  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-804  I  804  804  804  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-805  I  805  805  805  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-806  I  806  806  806  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-807  I  807  807  807  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-808  I  808  808  808  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-809  I  809  809  809  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-810  I  810  810  810  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-811  I  811  811  811  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-812  I  812  812  812  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-813  I  813  813  813  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-814  I  814  814  814  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-815  I  815  815  815  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-816  I  816  816  816  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-817  I  817  817  817  0  616-616 (1)
+|
+|
+| Independent group:
++-+-J-818  I  818  818  818  0  616-617 (1)
+|
+|
+| Independent group:
++-+-J-819  I  819  819  819  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-820  I  820  820  820  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-821  I  821  821  821  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-822  I  822  822  822  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-823  I  823  823  823  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-824  I  824  824  824  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-825  I  825  825  825  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-826  I  826  826  826  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-827  I  827  827  827  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-828  I  828  828  828  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-829  I  829  829  829  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-830  I  830  830  830  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-831  I  831  831  831  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-832  I  832  832  832  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-833  I  833  833  833  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-834  I  834  834  834  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-835  I  835  835  835  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-836  I  836  836  836  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-837  I  837  837  837  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-838  I  838  838  838  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-839  I  839  839  839  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-840  I  840  840  840  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-841  I  841  841  841  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-842  I  842  842  842  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-843  I  843  843  843  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-844  I  844  844  844  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-845  I  845  845  845  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-846  I  846  846  846  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-847  I  847  847  847  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-848  I  848  848  848  0  617-617 (1)
+|
+|
+| Independent group:
++-+-J-849  I  849  849  849  0  617-618 (1)
+|
+|
+| Independent group:
++-+-J-850  I  850  850  850  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-851  I  851  851  851  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-852  I  852  852  852  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-853  I  853  853  853  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-854  I  854  854  854  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-855  I  855  855  855  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-856  I  856  856  856  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-857  I  857  857  857  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-858  I  858  858  858  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-859  I  859  859  859  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-860  I  860  860  860  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-861  I  861  861  861  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-862  I  862  862  862  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-863  I  863  863  863  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-864  I  864  864  864  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-865  I  865  865  865  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-866  I  866  866  866  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-867  I  867  867  867  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-868  I  868  868  868  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-869  I  869  869  869  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-870  I  870  870  870  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-871  I  871  871  871  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-872  I  872  872  872  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-873  I  873  873  873  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-874  I  874  874  874  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-875  I  875  875  875  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-876  I  876  876  876  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-877  I  877  877  877  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-878  I  878  878  878  0  618-618 (1)
+|
+|
+| Independent group:
++-+-J-879  I  879  879  879  0  618-619 (1)
+|
+|
+| Independent group:
++-+-J-880  I  880  880  880  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-881  I  881  881  881  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-882  I  882  882  882  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-883  I  883  883  883  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-884  I  884  884  884  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-885  I  885  885  885  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-886  I  886  886  886  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-887  I  887  887  887  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-888  I  888  888  888  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-889  I  889  889  889  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-890  I  890  890  890  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-891  I  891  891  891  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-892  I  892  892  892  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-893  I  893  893  893  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-894  I  894  894  894  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-895  I  895  895  895  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-896  I  896  896  896  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-897  I  897  897  897  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-898  I  898  898  898  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-899  I  899  899  899  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-900  I  900  900  900  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-901  I  901  901  901  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-902  I  902  902  902  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-903  I  903  903  903  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-904  I  904  904  904  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-905  I  905  905  905  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-906  I  906  906  906  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-907  I  907  907  907  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-908  I  908  908  908  0  619-619 (1)
+|
+|
+| Independent group:
++-+-J-909  I  909  909  909  0  619-620 (1)
+|
+|
+| Independent group:
++-+-J-910  I  910  910  910  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-911  I  911  911  911  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-912  I  912  912  912  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-913  I  913  913  913  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-914  I  914  914  914  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-915  I  915  915  915  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-916  I  916  916  916  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-917  I  917  917  917  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-918  I  918  918  918  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-919  I  919  919  919  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-920  I  920  920  920  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-921  I  921  921  921  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-922  I  922  922  922  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-923  I  923  923  923  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-924  I  924  924  924  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-925  I  925  925  925  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-926  I  926  926  926  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-927  I  927  927  927  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-928  I  928  928  928  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-929  I  929  929  929  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-930  I  930  930  930  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-931  I  931  931  931  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-932  I  932  932  932  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-933  I  933  933  933  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-934  I  934  934  934  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-935  I  935  935  935  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-936  I  936  936  936  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-937  I  937  937  937  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-938  I  938  938  938  0  620-620 (1)
+|
+|
+| Independent group:
++-+-J-939  I  939  939  939  0  620-621 (1)
+|
+|
+| Independent group:
++-+-J-940  I  940  940  940  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-941  I  941  941  941  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-942  I  942  942  942  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-943  I  943  943  943  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-944  I  944  944  944  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-945  I  945  945  945  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-946  I  946  946  946  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-947  I  947  947  947  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-948  I  948  948  948  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-949  I  949  949  949  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-950  I  950  950  950  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-951  I  951  951  951  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-952  I  952  952  952  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-953  I  953  953  953  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-954  I  954  954  954  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-955  I  955  955  955  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-956  I  956  956  956  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-957  I  957  957  957  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-958  I  958  958  958  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-959  I  959  959  959  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-960  I  960  960  960  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-961  I  961  961  961  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-962  I  962  962  962  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-963  I  963  963  963  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-964  I  964  964  964  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-965  I  965  965  965  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-966  I  966  966  966  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-967  I  967  967  967  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-968  I  968  968  968  0  621-621 (1)
+|
+|
+| Independent group:
++-+-J-969  I  969  969  969  0  621-622 (1)
+|
+|
+| Independent group:
++-+-J-970  I  970  970  970  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-971  I  971  971  971  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-972  I  972  972  972  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-973  I  973  973  973  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-974  I  974  974  974  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-975  I  975  975  975  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-976  I  976  976  976  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-977  I  977  977  977  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-978  I  978  978  978  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-979  I  979  979  979  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-980  I  980  980  980  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-981  I  981  981  981  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-982  I  982  982  982  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-983  I  983  983  983  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-984  I  984  984  984  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-985  I  985  985  985  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-986  I  986  986  986  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-987  I  987  987  987  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-988  I  988  988  988  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-989  I  989  989  989  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-990  I  990  990  990  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-991  I  991  991  991  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-992  I  992  992  992  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-993  I  993  993  993  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-994  I  994  994  994  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-995  I  995  995  995  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-996  I  996  996  996  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-997  I  997  997  997  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-998  I  998  998  998  0  622-622 (1)
+|
+|
+| Independent group:
++-+-J-999  I  999  999  999  0  622-623 (1)
+|
+|
+| Independent group:
++-+-J-1000  I  1000  1000  1000  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1001  I  1001  1001  1001  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1002  I  1002  1002  1002  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1003  I  1003  1003  1003  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1004  I  1004  1004  1004  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1005  I  1005  1005  1005  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1006  I  1006  1006  1006  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1007  I  1007  1007  1007  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1008  I  1008  1008  1008  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1009  I  1009  1009  1009  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1010  I  1010  1010  1010  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1011  I  1011  1011  1011  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1012  I  1012  1012  1012  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1013  I  1013  1013  1013  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1014  I  1014  1014  1014  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1015  I  1015  1015  1015  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1016  I  1016  1016  1016  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1017  I  1017  1017  1017  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1018  I  1018  1018  1018  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1019  I  1019  1019  1019  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1020  I  1020  1020  1020  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1021  I  1021  1021  1021  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1022  I  1022  1022  1022  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1023  I  1023  1023  1023  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1024  I  1024  1024  1024  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1025  I  1025  1025  1025  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1026  I  1026  1026  1026  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1027  I  1027  1027  1027  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1028  I  1028  1028  1028  0  623-623 (1)
+|
+|
+| Independent group:
++-+-J-1029  I  1029  1029  1029  0  623-624 (1)
+|
+|
+| Independent group:
++-+-J-1030  I  1030  1030  1030  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1031  I  1031  1031  1031  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1032  I  1032  1032  1032  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1033  I  1033  1033  1033  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1034  I  1034  1034  1034  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1035  I  1035  1035  1035  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1036  I  1036  1036  1036  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1037  I  1037  1037  1037  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1038  I  1038  1038  1038  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1039  I  1039  1039  1039  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1040  I  1040  1040  1040  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1041  I  1041  1041  1041  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1042  I  1042  1042  1042  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1043  I  1043  1043  1043  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1044  I  1044  1044  1044  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1045  I  1045  1045  1045  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1046  I  1046  1046  1046  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1047  I  1047  1047  1047  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1048  I  1048  1048  1048  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1049  I  1049  1049  1049  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1050  I  1050  1050  1050  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1051  I  1051  1051  1051  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1052  I  1052  1052  1052  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1053  I  1053  1053  1053  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1054  I  1054  1054  1054  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1055  I  1055  1055  1055  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1056  I  1056  1056  1056  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1057  I  1057  1057  1057  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1058  I  1058  1058  1058  0  624-624 (1)
+|
+|
+| Independent group:
++-+-J-1059  I  1059  1059  1059  0  624-625 (1)
+|
+|
+| Independent group:
++-+-J-1060  I  1060  1060  1060  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1061  I  1061  1061  1061  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1062  I  1062  1062  1062  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1063  I  1063  1063  1063  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1064  I  1064  1064  1064  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1065  I  1065  1065  1065  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1066  I  1066  1066  1066  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1067  I  1067  1067  1067  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1068  I  1068  1068  1068  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1069  I  1069  1069  1069  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1070  I  1070  1070  1070  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1071  I  1071  1071  1071  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1072  I  1072  1072  1072  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1073  I  1073  1073  1073  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1074  I  1074  1074  1074  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1075  I  1075  1075  1075  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1076  I  1076  1076  1076  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1077  I  1077  1077  1077  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1078  I  1078  1078  1078  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1079  I  1079  1079  1079  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1080  I  1080  1080  1080  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1081  I  1081  1081  1081  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1082  I  1082  1082  1082  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1083  I  1083  1083  1083  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1084  I  1084  1084  1084  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1085  I  1085  1085  1085  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1086  I  1086  1086  1086  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1087  I  1087  1087  1087  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1088  I  1088  1088  1088  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1089  I  1089  1089  1089  0  625-625 (1)
+|
+|
+| Independent group:
++-+-J-1090  I  1090  1090  1090  0  625-626 (1)
+|
+|
+| Independent group:
++-+-J-1091  I  1091  1091  1091  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1092  I  1092  1092  1092  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1093  I  1093  1093  1093  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1094  I  1094  1094  1094  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1095  I  1095  1095  1095  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1096  I  1096  1096  1096  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1097  I  1097  1097  1097  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1098  I  1098  1098  1098  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1099  I  1099  1099  1099  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1100  I  1100  1100  1100  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1101  I  1101  1101  1101  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1102  I  1102  1102  1102  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1103  I  1103  1103  1103  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1104  I  1104  1104  1104  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1105  I  1105  1105  1105  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1106  I  1106  1106  1106  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1107  I  1107  1107  1107  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1108  I  1108  1108  1108  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1109  I  1109  1109  1109  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1110  I  1110  1110  1110  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1111  I  1111  1111  1111  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1112  I  1112  1112  1112  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1113  I  1113  1113  1113  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1114  I  1114  1114  1114  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1115  I  1115  1115  1115  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1116  I  1116  1116  1116  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1117  I  1117  1117  1117  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1118  I  1118  1118  1118  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1119  I  1119  1119  1119  0  626-626 (1)
+|
+|
+| Independent group:
++-+-J-1120  I  1120  1120  1120  0  626-627 (1)
+|
+|
+| Independent group:
++-+-J-1121  I  1121  1121  1121  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1122  I  1122  1122  1122  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1123  I  1123  1123  1123  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1124  I  1124  1124  1124  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1125  I  1125  1125  1125  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1126  I  1126  1126  1126  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1127  I  1127  1127  1127  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1128  I  1128  1128  1128  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1129  I  1129  1129  1129  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1130  I  1130  1130  1130  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1131  I  1131  1131  1131  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1132  I  1132  1132  1132  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1133  I  1133  1133  1133  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1134  I  1134  1134  1134  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1135  I  1135  1135  1135  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1136  I  1136  1136  1136  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1137  I  1137  1137  1137  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1138  I  1138  1138  1138  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1139  I  1139  1139  1139  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1140  I  1140  1140  1140  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1141  I  1141  1141  1141  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1142  I  1142  1142  1142  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1143  I  1143  1143  1143  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1144  I  1144  1144  1144  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1145  I  1145  1145  1145  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1146  I  1146  1146  1146  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1147  I  1147  1147  1147  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1148  I  1148  1148  1148  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1149  I  1149  1149  1149  0  627-627 (1)
+|
+|
+| Independent group:
++-+-J-1150  I  1150  1150  1150  0  627-628 (1)
+|
+|
+| Independent group:
++-+-J-1151  I  1151  1151  1151  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1152  I  1152  1152  1152  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1153  I  1153  1153  1153  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1154  I  1154  1154  1154  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1155  I  1155  1155  1155  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1156  I  1156  1156  1156  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1157  I  1157  1157  1157  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1158  I  1158  1158  1158  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1159  I  1159  1159  1159  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1160  I  1160  1160  1160  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1161  I  1161  1161  1161  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1162  I  1162  1162  1162  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1163  I  1163  1163  1163  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1164  I  1164  1164  1164  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1165  I  1165  1165  1165  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1166  I  1166  1166  1166  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1167  I  1167  1167  1167  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1168  I  1168  1168  1168  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1169  I  1169  1169  1169  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1170  I  1170  1170  1170  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1171  I  1171  1171  1171  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1172  I  1172  1172  1172  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1173  I  1173  1173  1173  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1174  I  1174  1174  1174  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1175  I  1175  1175  1175  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1176  I  1176  1176  1176  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1177  I  1177  1177  1177  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1178  I  1178  1178  1178  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1179  I  1179  1179  1179  0  628-628 (1)
+|
+|
+| Independent group:
++-+-J-1180  I  1180  1180  1180  0  628-629 (1)
+|
+|
+| Independent group:
++-+-J-1181  I  1181  1181  1181  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1182  I  1182  1182  1182  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1183  I  1183  1183  1183  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1184  I  1184  1184  1184  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1185  I  1185  1185  1185  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1186  I  1186  1186  1186  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1187  I  1187  1187  1187  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1188  I  1188  1188  1188  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1189  I  1189  1189  1189  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1190  I  1190  1190  1190  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1191  I  1191  1191  1191  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1192  I  1192  1192  1192  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1193  I  1193  1193  1193  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1194  I  1194  1194  1194  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1195  I  1195  1195  1195  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1196  I  1196  1196  1196  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1197  I  1197  1197  1197  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1198  I  1198  1198  1198  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1199  I  1199  1199  1199  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1200  I  1200  1200  1200  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1201  I  1201  1201  1201  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1202  I  1202  1202  1202  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1203  I  1203  1203  1203  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1204  I  1204  1204  1204  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1205  I  1205  1205  1205  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1206  I  1206  1206  1206  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1207  I  1207  1207  1207  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1208  I  1208  1208  1208  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1209  I  1209  1209  1209  0  629-629 (1)
+|
+|
+| Independent group:
++-+-J-1210  I  1210  1210  1210  0  629-630 (1)
+|
+|
+| Independent group:
++-+-J-1211  I  1211  1211  1211  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1212  I  1212  1212  1212  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1213  I  1213  1213  1213  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1214  I  1214  1214  1214  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1215  I  1215  1215  1215  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1216  I  1216  1216  1216  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1217  I  1217  1217  1217  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1218  I  1218  1218  1218  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1219  I  1219  1219  1219  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1220  I  1220  1220  1220  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1221  I  1221  1221  1221  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1222  I  1222  1222  1222  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1223  I  1223  1223  1223  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1224  I  1224  1224  1224  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1225  I  1225  1225  1225  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1226  I  1226  1226  1226  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1227  I  1227  1227  1227  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1228  I  1228  1228  1228  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1229  I  1229  1229  1229  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1230  I  1230  1230  1230  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1231  I  1231  1231  1231  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1232  I  1232  1232  1232  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1233  I  1233  1233  1233  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1234  I  1234  1234  1234  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1235  I  1235  1235  1235  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1236  I  1236  1236  1236  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1237  I  1237  1237  1237  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1238  I  1238  1238  1238  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1239  I  1239  1239  1239  0  630-630 (1)
+|
+|
+| Independent group:
++-+-J-1240  I  1240  1240  1240  0  630-631 (1)
+|
+|
+| Independent group:
++-+-J-1241  I  1241  1241  1241  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1242  I  1242  1242  1242  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1243  I  1243  1243  1243  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1244  I  1244  1244  1244  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1245  I  1245  1245  1245  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1246  I  1246  1246  1246  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1247  I  1247  1247  1247  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1248  I  1248  1248  1248  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1249  I  1249  1249  1249  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1250  I  1250  1250  1250  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1251  I  1251  1251  1251  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1252  I  1252  1252  1252  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1253  I  1253  1253  1253  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1254  I  1254  1254  1254  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1255  I  1255  1255  1255  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1256  I  1256  1256  1256  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1257  I  1257  1257  1257  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1258  I  1258  1258  1258  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1259  I  1259  1259  1259  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1260  I  1260  1260  1260  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1261  I  1261  1261  1261  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1262  I  1262  1262  1262  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1263  I  1263  1263  1263  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1264  I  1264  1264  1264  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1265  I  1265  1265  1265  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1266  I  1266  1266  1266  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1267  I  1267  1267  1267  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1268  I  1268  1268  1268  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1269  I  1269  1269  1269  0  631-631 (1)
+|
+|
+| Independent group:
++-+-J-1270  I  1270  1270  1270  0  631-632 (1)
+|
+|
+| Independent group:
++-+-J-1271  I  1271  1271  1271  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1272  I  1272  1272  1272  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1273  I  1273  1273  1273  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1274  I  1274  1274  1274  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1275  I  1275  1275  1275  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1276  I  1276  1276  1276  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1277  I  1277  1277  1277  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1278  I  1278  1278  1278  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1279  I  1279  1279  1279  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1280  I  1280  1280  1280  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1281  I  1281  1281  1281  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1282  I  1282  1282  1282  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1283  I  1283  1283  1283  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1284  I  1284  1284  1284  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1285  I  1285  1285  1285  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1286  I  1286  1286  1286  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1287  I  1287  1287  1287  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1288  I  1288  1288  1288  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1289  I  1289  1289  1289  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1290  I  1290  1290  1290  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1291  I  1291  1291  1291  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1292  I  1292  1292  1292  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1293  I  1293  1293  1293  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1294  I  1294  1294  1294  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1295  I  1295  1295  1295  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1296  I  1296  1296  1296  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1297  I  1297  1297  1297  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1298  I  1298  1298  1298  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1299  I  1299  1299  1299  0  632-632 (1)
+|
+|
+| Independent group:
++-+-J-1300  I  1300  1300  1300  0  632-633 (1)
+|
+|
+| Independent group:
++-+-J-1301  I  1301  1301  1301  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1302  I  1302  1302  1302  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1303  I  1303  1303  1303  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1304  I  1304  1304  1304  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1305  I  1305  1305  1305  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1306  I  1306  1306  1306  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1307  I  1307  1307  1307  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1308  I  1308  1308  1308  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1309  I  1309  1309  1309  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1310  I  1310  1310  1310  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1311  I  1311  1311  1311  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1312  I  1312  1312  1312  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1313  I  1313  1313  1313  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1314  I  1314  1314  1314  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1315  I  1315  1315  1315  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1316  I  1316  1316  1316  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1317  I  1317  1317  1317  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1318  I  1318  1318  1318  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1319  I  1319  1319  1319  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1320  I  1320  1320  1320  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1321  I  1321  1321  1321  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1322  I  1322  1322  1322  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1323  I  1323  1323  1323  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1324  I  1324  1324  1324  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1325  I  1325  1325  1325  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1326  I  1326  1326  1326  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1327  I  1327  1327  1327  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1328  I  1328  1328  1328  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1329  I  1329  1329  1329  0  633-633 (1)
+|
+|
+| Independent group:
++-+-J-1330  I  1330  1330  1330  0  633-634 (1)
+|
+|
+| Independent group:
++-+-J-1331  I  1331  1331  1331  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1332  I  1332  1332  1332  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1333  I  1333  1333  1333  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1334  I  1334  1334  1334  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1335  I  1335  1335  1335  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1336  I  1336  1336  1336  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1337  I  1337  1337  1337  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1338  I  1338  1338  1338  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1339  I  1339  1339  1339  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1340  I  1340  1340  1340  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1341  I  1341  1341  1341  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1342  I  1342  1342  1342  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1343  I  1343  1343  1343  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1344  I  1344  1344  1344  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1345  I  1345  1345  1345  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1346  I  1346  1346  1346  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1347  I  1347  1347  1347  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1348  I  1348  1348  1348  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1349  I  1349  1349  1349  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1350  I  1350  1350  1350  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1351  I  1351  1351  1351  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1352  I  1352  1352  1352  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1353  I  1353  1353  1353  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1354  I  1354  1354  1354  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1355  I  1355  1355  1355  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1356  I  1356  1356  1356  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1357  I  1357  1357  1357  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1358  I  1358  1358  1358  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1359  I  1359  1359  1359  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1360  I  1360  1360  1360  0  634-634 (1)
+|
+|
+| Independent group:
++-+-J-1361  I  1361  1361  1361  0  634-635 (1)
+|
+|
+| Independent group:
++-+-J-1362  I  1362  1362  1362  0  635-635 (1)
+|
+|
+| Independent group:
++-+-J-1363  I  1363  1363  1363  0  635-635 (1)
+|
+|
+| Independent group:
++-+-J-1364  I  1364  1364  1364  0  635-635 (1)
+
+Averaging factor for longest baseline: 1 x . For the shortest: 96 x 
+Reordering /idia/projects/oh-mkt/thato_reductions/HATLAS1429/broadband_cubes/SUBMSS/1/oxkat/cubes/1618599671_sdp_l0_1365ch_H1429-0028.ms.0001_1365ch_H1429-0028.ms.contsub into 1365 x 1 parts.
+Reordering: 0%....10%....20%....30%....40%....50%....60%....70%....80%....90%..

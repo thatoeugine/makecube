@@ -1,0 +1,9 @@
+2024-03-23 10:12:53	INFO	::casa	
+2024-03-23 10:12:53	INFO	::casa	Checking telemetry submission interval
+2024-03-23 10:12:53	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2024-03-23 10:12:53	INFO	::casa	Next telemetry data submission in: 6 days, 23:57:44.369117
+2024-03-23 10:12:53	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-03-23 10:12:56	INFO	uvsub::::	
+2024-03-23 10:12:56	INFO	uvsub::::+	##########################################
+2024-03-23 10:12:56	INFO	uvsub::::+	##### Begin Task: uvsub              #####
+2024-03-23 10:12:56	INFO	uvsub::::	uvsub(vis="/idia/projects/oh-mkt/thato_reductions/zGals/HerBS-180S/oxkat/1687364051_chan6472-6872_1024ch_HATLASJ13242.ms",reverse=False)

@@ -1,0 +1,14 @@
+2024-02-23 13:56:38	INFO	::casa	
+2024-02-23 13:56:38	INFO	::casa	Checking telemetry submission interval
+2024-02-23 13:56:38	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2024-02-23 13:56:38	INFO	::casa	Next telemetry data submission in: 6 days, 22:24:25.045671
+2024-02-23 13:56:38	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-02-23 13:56:40	INFO	imcontsub::::	
+2024-02-23 13:56:40	INFO	imcontsub::::+	##########################################
+2024-02-23 13:56:40	INFO	imcontsub::::+	##### Begin Task: imcontsub          #####
+2024-02-23 13:56:40	INFO	imcontsub::::	imcontsub(imagename="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits",linefile="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.linefile",contfile="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.contfile",fitorder=2,region="",
+2024-02-23 13:56:40	INFO	imcontsub::::+	        box="",chans="",stokes="")
+2024-02-23 13:56:40	SEVERE	imcontsub::::	Error: file /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.linefile already exists, please delete before continuing.
+2024-02-23 13:56:40	SEVERE	imcontsub::::	Error: Unable to continue file /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/cube/cube_COMBINED_-0.5.fits.contfile already exists, please delete before continuing.
+2024-02-23 13:56:40	INFO	imcontsub::::	##### End Task: imcontsub            #####
+2024-02-23 13:56:40	INFO	imcontsub::::+	##########################################

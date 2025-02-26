@@ -1,0 +1,9 @@
+2025-02-21 09:07:08	INFO	::casa	
+2025-02-21 09:07:08	INFO	::casa	Checking telemetry submission interval
+2025-02-21 09:07:08	INFO	::casa	Telemetry submit interval reached, submitting telemetry data.
+2025-02-21 09:07:13	INFO	::casa	Removed/users/thatomanamela/.casa/telemetry-e02232a3263139124-20250221110710.tar.gz
+2025-02-21 09:07:13	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2025-02-21 09:07:16	INFO	uvsub::::	
+2025-02-21 09:07:16	INFO	uvsub::::+	##########################################
+2025-02-21 09:07:16	INFO	uvsub::::+	##### Begin Task: uvsub              #####
+2025-02-21 09:07:16	INFO	uvsub::::	uvsub(vis="/idia/projects/oh-mkt/thato_reductions/HATLAS1429/broadband_cubes/SUBMSS/1/oxkat/cubes/1618599671_sdp_l0_1365ch_H1429-0028.ms.0001_1365ch_H1429-0028.ms",reverse=False)

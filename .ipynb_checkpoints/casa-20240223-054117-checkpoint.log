@@ -1,0 +1,48 @@
+2024-02-23 05:41:22	INFO	::casa	
+2024-02-23 05:41:22	INFO	::casa	Checking telemetry submission interval
+2024-02-23 05:41:22	INFO	::casa	Telemetry submit interval reached, submitting telemetry data.
+2024-02-23 05:41:26	INFO	::casa	Removed/users/thatomanamela/.casa/telemetry-e02232a325b401368-20240223074123.tar.gz
+2024-02-23 05:41:26	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-02-23 05:41:28	INFO	uvsub::::	
+2024-02-23 05:41:28	INFO	uvsub::::+	##########################################
+2024-02-23 05:41:28	INFO	uvsub::::+	##### Begin Task: uvsub              #####
+2024-02-23 05:41:28	INFO	uvsub::::	uvsub(vis="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms",reverse=False)
+2024-02-23 05:42:42	INFO	uvsub::::	CASA Version 5.6.1-8  
+2024-02-23 05:42:42	INFO	uvsub::::	
+2024-02-23 05:42:42	INFO	uvsub::::	##### End Task: uvsub                #####
+2024-02-23 05:42:42	INFO	uvsub::::+	##########################################
+2024-02-23 05:42:42	INFO	uvcontsub::::	
+2024-02-23 05:42:42	INFO	uvcontsub::::+	##########################################
+2024-02-23 05:42:42	INFO	uvcontsub::::+	##### Begin Task: uvcontsub          #####
+2024-02-23 05:42:42	INFO	uvcontsub::::	uvcontsub(vis="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms",field="",fitspw="",excludechans=False,combine="",
+2024-02-23 05:42:42	INFO	uvcontsub::::+	        solint="int",fitorder=1,spw="",want_cont=False)
+2024-02-23 05:42:42	INFO	uvcontsub::::	Preparing to add scratch columns.
+2024-02-23 05:42:42	INFO	uvcontsub::::	splitting to /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms.contsubzHgWkc with spw=""
+2024-02-23 05:42:42	INFO	SubMS::parseColumnNames()	Using CORRECTED_DATA column.
+2024-02-23 05:43:30	INFO	uvcontsub::::	CASA Version 5.6.1-8  
+2024-02-23 05:43:30	INFO	uvcontsub::::	
+2024-02-23 05:43:30	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2024-02-23 05:43:30	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2024-02-23 05:43:30	INFO	calibrater::open	Opening MS: /idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms.contsubzHgWkc for calibration.
+2024-02-23 05:43:30	INFO		Clearing all model records in MS header.
+2024-02-23 05:43:30	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2024-02-23 05:44:01	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2024-02-23 05:44:28	INFO	VisSetUtil::initScrCols	Initialized 2340648 rows.
+2024-02-23 05:44:28	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2024-02-23 05:44:29	INFO	calibrater::reset	Reseting solve/apply state
+2024-02-23 05:44:29	INFO	calibrater::setdata	Beginning selectvis--(MSSelection version)-------
+2024-02-23 05:44:29	INFO	calibrater::reset	Reseting solve/apply state
+2024-02-23 05:44:29	INFO	Calibrater::selectvis	Performing selection on MeasurementSet
+2024-02-23 05:44:29	INFO	Calibrater::selectvis	Selection did not drop any rows
+2024-02-23 05:44:30	INFO	Calibrater::selectvis	Frequency selection: Selecting all channels in all spws.
+2024-02-23 05:44:30	INFO	calibrater::setdata	chanmode=none nchan=1 start=0 step=1 mStart='0km/s' mStep='0km/s' msSelect=''
+2024-02-23 05:44:30	INFO	calibrater::setsolve	Beginning setsolve--(MSSelection version)-------
+2024-02-23 05:44:30	INFO	Calibrater::setsolve	Arranging to SOLVE:
+2024-02-23 05:44:30	INFO	Calibrater::setsolve	.   A Mueller: table=/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/Temp_contsub.tabwDnl_P append=false solint=int refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2024-02-23 05:44:30	INFO	calibrater::solve	Beginning solve-----------------------------
+2024-02-23 05:44:30	INFO	Calibrater::solve	The following calibration terms are arranged for apply:
+2024-02-23 05:44:30	INFO	Calibrater::solve	.   (None)
+2024-02-23 05:44:30	INFO	Calibrater::solve	The following calibration term is arranged for solve:
+2024-02-23 05:44:30	INFO	Calibrater::solve	.   A Mueller: table=/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/Temp_contsub.tabwDnl_P append=false solint=int refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2024-02-23 05:44:30	INFO	Calibrater::solve	Solving for A Mueller
+2024-02-23 05:44:32	INFO		For solint = int, found 1368 solution intervals.

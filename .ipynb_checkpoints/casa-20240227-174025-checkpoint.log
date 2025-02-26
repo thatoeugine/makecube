@@ -1,0 +1,9 @@
+2024-02-27 17:40:30	INFO	::casa	
+2024-02-27 17:40:30	INFO	::casa	Checking telemetry submission interval
+2024-02-27 17:40:30	INFO	::casa	Telemetry submit interval reached, submitting telemetry data.
+2024-02-27 17:40:39	INFO	::casa	Removed/users/thatomanamela/.casa/telemetry-e02232a32a72993f0-20240227194036.tar.gz
+2024-02-27 17:40:39	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-02-27 17:40:41	INFO	uvsub::::	
+2024-02-27 17:40:41	INFO	uvsub::::+	##########################################
+2024-02-27 17:40:41	INFO	uvsub::::+	##### Begin Task: uvsub              #####
+2024-02-27 17:40:41	INFO	uvsub::::	uvsub(vis="/idia/projects/oh-mkt/thato_reductions/HATLASJ13242_Track1_reductions/run_specline/oxkat/1687191673_chan3106-3406_1024ch_HATLASJ13242.ms",reverse=False)

@@ -1,0 +1,23 @@
+2024-03-20 14:25:45	INFO	::casa	
+2024-03-20 14:25:45	INFO	::casa	Checking telemetry submission interval
+2024-03-20 14:25:45	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2024-03-20 14:25:45	INFO	::casa	Next telemetry data submission in: 6 days, 23:59:52.026916
+2024-03-20 14:25:45	INFO	::casa	CASA Version PIPELINE 5.6.1-8  
+2024-03-20 14:25:48	INFO	imcontsub::::	
+2024-03-20 14:25:48	INFO	imcontsub::::+	##########################################
+2024-03-20 14:25:48	INFO	imcontsub::::+	##### Begin Task: imcontsub          #####
+2024-03-20 14:25:48	INFO	imcontsub::::	imcontsub(imagename="/idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.image",linefile="/idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.linefile",contfile="/idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.contfile",fitorder=2,region="",
+2024-03-20 14:25:48	INFO	imcontsub::::+	        box="",chans="",stokes="")
+2024-03-20 14:25:48	SEVERE	imcontsub::::	Error: file /idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.linefile already exists, please delete before continuing.
+2024-03-20 14:25:48	SEVERE	imcontsub::::	Error: Unable to continue file /idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.contfile already exists, please delete before continuing.
+2024-03-20 14:25:48	INFO	imcontsub::::	##### End Task: imcontsub            #####
+2024-03-20 14:25:48	INFO	imcontsub::::+	##########################################
+2024-03-20 14:25:48	INFO	exportfits::::	
+2024-03-20 14:25:48	INFO	exportfits::::+	##########################################
+2024-03-20 14:25:48	INFO	exportfits::::+	##### Begin Task: exportfits         #####
+2024-03-20 14:25:48	INFO	exportfits::::	exportfits(imagename="/idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.linefile",fitsimage="/idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.linefile.fits",velocity=False,optical=False,bitpix=-32,
+2024-03-20 14:25:48	INFO	exportfits::::+	        minpix=0,maxpix=-1,overwrite=False,dropstokes=False,stokeslast=True,
+2024-03-20 14:25:48	INFO	exportfits::::+	        history=True,dropdeg=False)
+2024-03-20 14:25:48	SEVERE	exportfits::image::tofits (file ../../tools/images/image_cmpt.cc, line 6211)	Exception Reported: Exception: File /idia/projects/oh-mkt/thato_reductions/SDP9_reductions/specline/oxkat/cube/cube_0.5.imagefitorder-2.linefile.fits exists, and the user does not want to remove it..
+2024-03-20 14:25:48	SEVERE	exportfits::image::tofits (file ../../tools/images/image_cmpt.cc, line 6211)+	... thrown by static void casa::ImageFactory::_checkOutfile(const casacore::String&, casacore::Bool) at File: ../../imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 568
+2024-03-20 14:25:48	SEVERE	exportfits::::	An error occurred running task exportfits.

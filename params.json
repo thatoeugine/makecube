@@ -1,0 +1,32 @@
+{
+    "settings": {
+        "douvsub": true,
+        "doimagedata": true,
+        "doimcontsub": false
+    },
+    "directories": {
+        "OUTPUT_DIRECTORY": "/idia/projects/oh-mkt/thato_reductions/HATLAS1429/broadband_cubes/SUBMSS/3/oxkat/cubes/",
+        "MSFILE": "1618599671_sdp_l0_1365ch_H1429-0028.ms.0003_1365ch_H1429-0028.ms"
+    },
+    "uvsub_uvcontsub_params": {
+        "fitorder": 1,
+        "chans": ""
+    },
+    "cube_imaging_params": {
+        "use_tclean": false,
+        "use_wsclean": true,
+        "width": "",
+        "start": "",
+        "numchans": 1365,
+        "imsize": 10240,
+        "pixelsize": "1.7asec",
+        "robust": "0.5"
+    },
+    "imcontsub_params": {
+        "fitorder": [
+            1,
+            2
+        ],
+        "chans": ""
+    }
+}
