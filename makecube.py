@@ -46,7 +46,7 @@ if parsed_json['settings']['doimagedata']:
 
     if parsed_json['cube_imaging_params']['use_wsclean']:
         wsclean_cmd = (
-            f"singularity exec {CONTDIR}stimela_wsclean_1.2.3.sif -log-time -abs-mem 225 "
+            f"singularity exec {CONTDIR}stimela_wsclean_1.2.3.sif wsclean -log-time -abs-mem 225 "
             f"-parallel-reordering 16 -make-psf -no-dirty -name {chanbasename} "
             f"-no-mf-weighting -no-update-model-required -data-column DATA -field 0 "
             f"-use-wgridder -weight briggs {parsed_json['cube_imaging_params']['robust']} "
