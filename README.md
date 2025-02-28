@@ -7,3 +7,7 @@ This Python module automates the process of radio astronomy data reduction and i
 4. **Continuum Subtraction on the Image Cube**: If enabled, it runs a CASA script (`casa_imcontsub.py`) to subtract the continuum from the image cube.
 
 The module constructs and executes command-line commands using Singularity containers to ensure a consistent software environment.
+
+### Requirements:
+
+[ILIFU](http://docs.ilifu.ac.za/#/) cluster
