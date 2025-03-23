@@ -58,10 +58,16 @@ if parsed_json['settings']['doimagedata']:
         print(wsclean_cmd)
         os.system(wsclean_cmd)
 
+        # Apply primary beam correction to images
+        pbcor_cmd = (
+            f"singularity exec / idia/software/containers/oxkat-0.41.sif python3 pbcor_katbeam.py --band U {PATH}*-image.fits")
+        print(pbcor_cmd)
+        os.system(pbcor_cmd)
+
         # Glue the FITS images into a cube
         glue_cmd = (
             f"singularity exec {CONTDIR}stimela_ddfacet_1.3.3.sif fitstool.py "
-            f"--stack {cubename}:FREQ {PATH}*-image.fits"
+            f"--stack {cubename}:FREQ {PATH}*-image.pbcor.fits"
         )
         print(glue_cmd)
         os.system(glue_cmd)
