@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 
@@ -59,10 +60,14 @@ if parsed_json['settings']['doimagedata']:
         os.system(wsclean_cmd)
 
         # Apply primary beam correction to images
-        pbcor_cmd = (
-            f"singularity exec / idia/software/containers/oxkat-0.41.sif python3 pbcor_katbeam.py --band U {PATH}*-image.fits")
-        print(pbcor_cmd)
-        os.system(pbcor_cmd)
+        fits_files = glob.glob(f"{PATH}*-image.fits")
+
+        for fits_file in fits_files:
+            pbcor_cmd = (
+                f"singularity exec /idia/software/containers/oxkat-0.41.sif python3 pbcor_katbeam.py --band U {fits_file}"
+            )
+            print(pbcor_cmd)
+            os.system(pbcor_cmd)
 
         # Glue the FITS images into a cube
         glue_cmd = (
